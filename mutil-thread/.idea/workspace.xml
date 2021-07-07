@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfd71326-2c97-4f28-81cf-eb5601bbba17" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/javaEnv/apache-maven-3.0.4" />
+        <option name="userSettingsFile" value="D:\javaEnv\apache-maven-3.0.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UBu69TyM55ZvyB9B9IobQHHWIQ" />
+  <component name="PropertiesComponent">
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/yrxy/thread/case24" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.18903589" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jason\IdeaProjects\mutil-thread\src\main\resources" />
+      <recent name="C:\Users\jason\IdeaProjects\mutil-thread\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.yrxy.thread.case8" />
+      <recent name="com.yrxy.thread.common" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yrxy.thread.case20" />
+      <recent name="com.yrxy.thread.case22" />
+      <recent name="com.yrxy.thread.case19" />
+      <recent name="com.yrxy.thread.case21" />
+      <recent name="com.yrxy.thread.case16" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jason\IdeaProjects\mutil-thread\src\main\java\com\yrxy\thread\case24" />
+      <recent name="C:\Users\jason\IdeaProjects\mutil-thread\src\main\java\com\yrxy\thread\case16" />
+      <recent name="C:\Users\jason\IdeaProjects\mutil-thread\src\main\java\com\yrxy\thread\case15" />
+      <recent name="C:\Users\jason\IdeaProjects\mutil-thread\src\main\java\com\yrxy\thread\case19" />
+      <recent name="C:\Users\jason\IdeaProjects\mutil-thread\src\main\java\com\yrxy\thread\case17" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BasicProducer">
+    <configuration name="BasicConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yrxy.thread.case15.BasicConsumer" />
+      <module name="mutil-thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yrxy.thread.case15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yrxy.thread.case15.BasicProducer" />
+      <module name="mutil-thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yrxy.thread.case15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yrxy.thread.case23.Test" />
+      <module name="mutil-thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yrxy.thread.case23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBatchConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yrxy.thread.case16.TestBatchConsumer" />
+      <module name="mutil-thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yrxy.thread.case16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBatchProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yrxy.thread.case16.TestBatchProducer" />
+      <module name="mutil-thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yrxy.thread.case16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BasicProducer" />
+        <item itemvalue="Application.BasicConsumer" />
+        <item itemvalue="Application.TestBatchProducer" />
+        <item itemvalue="Application.TestBatchConsumer" />
+        <item itemvalue="Application.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA,SHOW_NON_PUBLIC,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfd71326-2c97-4f28-81cf-eb5601bbba17" name="Default Changelist" comment="" />
+      <created>1574842131756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574842131756</updated>
+      <workItem from="1574842135505" duration="1711000" />
+      <workItem from="1574843895285" duration="14128000" />
+      <workItem from="1574905142592" duration="51466000" />
+      <workItem from="1575969336792" duration="13148000" />
+      <workItem from="1576234904761" duration="5262000" />
+      <workItem from="1576375095392" duration="4119000" />
+      <workItem from="1576461610508" duration="33623000" />
+      <workItem from="1576633641024" duration="18922000" />
+      <workItem from="1576721108621" duration="29267000" />
+      <workItem from="1576806724160" duration="131413000" />
+      <workItem from="1577597812210" duration="15173000" />
+      <workItem from="1577757516762" duration="13505000" />
+      <workItem from="1577935823113" duration="1212000" />
+      <workItem from="1578016643188" duration="13148000" />
+      <workItem from="1578362716135" duration="5716000" />
+      <workItem from="1578378823410" duration="5926000" />
+      <workItem from="1578385905143" duration="16246000" />
+      <workItem from="1578466896936" duration="10907000" />
+      <workItem from="1578566863781" duration="10824000" />
+      <workItem from="1578712497789" duration="19084000" />
+      <workItem from="1578825476827" duration="38938000" />
+      <workItem from="1579001346569" duration="5793000" />
+      <workItem from="1579072977927" duration="35674000" />
+      <workItem from="1579766612950" duration="251000" />
+      <workItem from="1580020527695" duration="3731000" />
+      <workItem from="1580104572659" duration="6441000" />
+      <workItem from="1580193749942" duration="9845000" />
+      <workItem from="1580352749457" duration="3610000" />
+      <workItem from="1580376262833" duration="6021000" />
+      <workItem from="1580445962871" duration="9356000" />
+      <workItem from="1580557849987" duration="3685000" />
+      <workItem from="1580616920148" duration="32985000" />
+      <workItem from="1580869658852" duration="19513000" />
+      <workItem from="1581069981528" duration="1201000" />
+      <workItem from="1581167005820" duration="1132000" />
+      <workItem from="1581168272813" duration="42957000" />
+      <workItem from="1581478143196" duration="1173000" />
+      <workItem from="1581480435153" duration="26309000" />
+      <workItem from="1581669815619" duration="6181000" />
+      <workItem from="1581684374811" duration="3309000" />
+      <workItem from="1581730955913" duration="17662000" />
+      <workItem from="1581850647647" duration="41872000" />
+      <workItem from="1582081120320" duration="50315000" />
+      <workItem from="1583803699762" duration="1818000" />
+      <workItem from="1584345488117" duration="800000" />
+      <workItem from="1586670184244" duration="1074000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yrxy/thread/case118/Consumer.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yrxy/thread/case118/Consumer.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yrxy/thread/case118/Consumer.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yrxy/thread/case6/Deposit.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yrxy/thread/case6/Deposit.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yrxy/thread/case6/Deposit.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yrxy/thread/case6/Deposit.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yrxy/thread/case6/Deposit.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Thread.currentThread().getId()" />
+        <watch expression="ActionContext.getContext()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

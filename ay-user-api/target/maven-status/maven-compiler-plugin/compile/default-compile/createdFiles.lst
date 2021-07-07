@@ -1,0 +1,3 @@
+com\lqh\springbootdemo\AyUserApiApplication.class
+com\lqh\springbootdemo\domain\AyUser.class
+com\lqh\springbootdemo\api\AyUserDubboService.class

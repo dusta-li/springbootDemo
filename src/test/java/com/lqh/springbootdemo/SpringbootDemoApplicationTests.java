@@ -15,8 +15,10 @@ import org.springframework.jdbc.core.RowMapper;
 
 import javax.annotation.Resource;
 import javax.jms.Destination;
+import java.io.*;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
@@ -118,5 +120,41 @@ class SpringbootDemoApplicationTests {
         System.out.println("异步发表说说："+msg);
 
 
+    }
+
+    public static void main(String[] args) throws IOException {
+        String path = "E:\\test\\test\\test3.txt";
+        File file = new File(path);
+        if(!file.exists()){
+            file.getParentFile().mkdirs();
+        }
+        file.createNewFile();
+
+        ArrayList<AyUser> ayUsers = new ArrayList<>();
+        AyUser ayUser1 = new AyUser();
+        ayUser1.setId("001");
+        ayUser1.setName("zs");
+        ayUser1.setPassword("123456");
+        AyUser ayUser2 = new AyUser();
+        ayUser2.setId("002");
+        ayUser2.setName("ls");
+        ayUser2.setPassword("123456");
+
+        ayUsers.add(ayUser1);
+        ayUsers.add(ayUser2);
+
+
+        // write
+        FileOutputStream writerStream = new FileOutputStream(file);
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(writerStream,"UTF-8"));
+
+        for (AyUser ayUser:ayUsers) {
+            bw.write(""+ayUser.getId()+"&"+ayUser.getName()+"&"+ayUser.getPassword()+"\r\n");
+        }
+//        bw.write("AAAAAA\r\n");
+//        bw.write("BBBBBB\r\n");
+        bw.flush();
+        bw.close();
+        writerStream.close();
     }
 }
